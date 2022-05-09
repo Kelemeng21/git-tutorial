@@ -9,4 +9,18 @@ git init #könyvtár inicilizása a git mappává
 git config --global-- list #globális beálítások listázása
 git status
 git add readme.md #readme.md változtatásainak staging-elése
-git commit -m "üzenet" # össszes staging commitolása "üzenetel
+git commit -m"#üzenet"  össszes staging commitolása "üzenetel
+ 
+
+i = 0
+while i <= 100
+   print(i)
+   i = i + 2
+
+x = 0
+while i <= 100
+    print(i**2)
+    i = i + 1
+
+u = 0
+while u <=
