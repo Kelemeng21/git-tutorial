@@ -10,17 +10,7 @@ git config --global-- list #globális beálítások listázása
 git status
 git add readme.md #readme.md változtatásainak staging-elése
 git commit -m"#üzenet"  össszes staging commitolása "üzenetel
- 
-
-i = 0
-while i <= 100
-   print(i)
-   i = i + 2
-
-x = 0
-while i <= 100
-    print(i**2)
-    i = i + 1
-
-u = 0
-while u <=
+git remote add origin github.com/Kelemeng21/git-tutorial.git 
+git origin néven hozzá adja a címen lévő repót
+git push -u origin main
+git remote remove origin # origin nevű távoli repó 
