@@ -8,9 +8,9 @@ ls list mappa listázása
 git init #könyvtár inicilizása a git mappává
 git config --global-- list #globális beálítások listázása
 git status
-git add readme.md #readme.md változtatásainak staging-elése
+git add readgme.md #readme.md változtatásainak staging-elése
 git commit -m"#üzenet"  össszes staging commitolása "üzenetel
 git remote add origin github.com/Kelemeng21/git-tutorial.git 
 git origin néven hozzá adja a címen lévő repót
 git push -u origin main
-git remote remove origin # origin nevű távoli repó 
+git remote remove origin # origin nevű táli
